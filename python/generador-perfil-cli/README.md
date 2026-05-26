@@ -11,6 +11,7 @@ python main.py
 === Generador de Perfiles ===
 Ingresa tu nombre: Arián
 Ingresa tu edad: 24
+Edad + 5
 Ingresa tu ciudad: Alerce
 Ingresa tu profesión/rol: Ingeniero en Informática
 Escribe una breve biografía sobre ti: Hola, soy Arián...
@@ -21,6 +22,7 @@ Edad: 24
 Ciudad: Alerce
 rol: Ingeniero en Informática
 Biografía: Hola, soy Arián:
+En 5 años, tendrás 29 años
 
 ¡Perfil guardado correctamente!
 
@@ -34,3 +36,6 @@ Biografía: Hola, soy Arián:
 - Función Input() y print()
 - f-strings para formateo
 - Variables y tipos de datos básicos
+- Conversión de tipos con 'int()'
+- Operaciones aritméticas con variables
+- Variables para almacenar resultados calculados

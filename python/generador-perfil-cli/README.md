@@ -39,3 +39,18 @@ En 5 años, tendrás 29 años
 - Conversión de tipos con 'int()'
 - Operaciones aritméticas con variables
 - Variables para almacenar resultados calculados
+
+## v2.0 - Formateo de Strings
+
+### Nuevas Características
+
+- Outpot formateado usando '.format()'
+- String multilínea con '"""' para mejor presentación
+- Comparación entre '.format()' y 'f-strings'
+
+### Conceptos Aplicados
+
+- Strings multilínea con triple comillas
+- Método '.format()' para insertar variables
+- Concatenación y formateo de texto
+- Conversión 'int()' + operaciones aritméticas

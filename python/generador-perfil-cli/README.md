@@ -54,3 +54,20 @@ En 5 años, tendrás 29 años
 - Método '.format()' para insertar variables
 - Concatenación y formateo de texto
 - Conversión 'int()' + operaciones aritméticas
+
+## v2.1 - Análisis de Strings con Slicing
+
+### Nuevas características
+
+- Extrae primera letra con 'nombre[0]'
+- Extrae última letra con 'nombre[-1]'
+- Obtiene substring con 'nombre[0:5]'
+- Invierte texto con 'nombre[::-1]'
+- Cuenta caracteres con 'len(nombre)'
+
+### Conceptos Aplicados
+
+- Indexación de strings: acceso por posición
+- Índices negativos: acceso desde el final
+- Slicing '[inicio:fin:paso]'
+- Función 'len()' para longitud de strings

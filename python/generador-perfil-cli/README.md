@@ -31,43 +31,12 @@ En 5 años, tendrás 29 años
 - Python 3.14.5
 - Librería estándar únicamente
 
-##### Conceptos Aplicados
+##### Estado: Completado
 
-- Función Input() y print()
-- f-strings para formateo
-- Variables y tipos de datos básicos
-- Conversión de tipos con 'int()'
-- Operaciones aritméticas con variables
-- Variables para almacenar resultados calculados
-
-## v2.0 - Formateo de Strings
-
-### Nuevas Características
-
-- Outpot formateado usando '.format()'
-- String multilínea con '"""' para mejor presentación
-- Comparación entre '.format()' y 'f-strings'
-
-### Conceptos Aplicados
-
-- Strings multilínea con triple comillas
-- Método '.format()' para insertar variables
-- Concatenación y formateo de texto
-- Conversión 'int()' + operaciones aritméticas
-
-## v2.1 - Análisis de Strings con Slicing
-
-### Nuevas características
-
-- Extrae primera letra con 'nombre[0]'
-- Extrae última letra con 'nombre[-1]'
-- Obtiene substring con 'nombre[0:5]'
-- Invierte texto con 'nombre[::-1]'
-- Cuenta caracteres con 'len(nombre)'
-
-### Conceptos Aplicados
-
-- Indexación de strings: acceso por posición
-- Índices negativos: acceso desde el final
-- Slicing '[inicio:fin:paso]'
-- Función 'len()' para longitud de strings
+Este fue mi primer proyecto Python. Aplica 7 días de aprendizaje
+- Input/Output y variables
+- Conversión de tipos con int()
+- Formateo con .format() y f-strings
+- Slicing e indexación [0], [-1], [::-1]
+- Métodos de strings:.strip(),.title(),.lower(),.capitalize(),.count(),.split()
+- Operadores: in, len()
